@@ -1,4 +1,4 @@
-# Final-Project
+# README
 # Predicting Online Shoppers' Purchase Intentions
 
 ## Description
